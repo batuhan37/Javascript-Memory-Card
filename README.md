@@ -1,6 +1,6 @@
 <p>
   <a href="https://batuhan37.github.io/Javascript-Memory-Card/">
-  <img src="./img.png" width="800px" title="hover text">
+  <img src="./" width="800px" title="hover text">
   </a>
 </p>
 
